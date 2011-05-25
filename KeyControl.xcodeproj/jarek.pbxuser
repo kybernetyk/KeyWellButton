@@ -1,0 +1,175 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = EFC133350E5F2A23009E161A /* KeyControl */;
+		activeTarget = 8D1107260486CEB800E47090 /* KeyControl */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* KeyControl */,
+		);
+		codeSenseManager = EFC133490E5F2A30009E161A /* Code sense */;
+		executables = (
+			EFC133350E5F2A23009E161A /* KeyControl */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					818,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					928,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 241117731;
+			PBXWorkspaceStateSaveDate = 241117731;
+		};
+		perUserProjectItems = {
+			EFC133EA0E5F350E009E161A /* PBXTextBookmark */ = EFC133EA0E5F350E009E161A /* PBXTextBookmark */;
+			EFC1341C0E5F3729009E161A /* PBXTextBookmark */ = EFC1341C0E5F3729009E161A /* PBXTextBookmark */;
+			EFC1341E0E5F3734009E161A /* PBXTextBookmark */ = EFC1341E0E5F3734009E161A /* PBXTextBookmark */;
+		};
+		sourceControlManager = EFC133480E5F2A30009E161A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* KeyControl */ = {
+		activeExec = 0;
+		executables = (
+			EFC133350E5F2A23009E161A /* KeyControl */,
+		);
+	};
+	EFC133350E5F2A23009E161A /* KeyControl */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = KeyControl;
+		sourceDirectories = (
+		);
+	};
+	EFC133480E5F2A30009E161A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	EFC133490E5F2A30009E161A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	EFC133510E5F2C3A009E161A /* KeyWellButton.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1106, 786}}";
+			sepNavSelRange = "{189, 13}";
+			sepNavVisRange = "{0, 368}";
+			sepNavWindowFrame = "{{212, 278}, {992, 719}}";
+		};
+	};
+	EFC133520E5F2C3A009E161A /* KeyWellButton.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1106, 1104}}";
+			sepNavSelRange = "{701, 0}";
+			sepNavVisRange = "{245, 1380}";
+		};
+	};
+	EFC133A00E5F2FCE009E161A /* KeyWellButton.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = KeyWellButton.m;
+		path = /Users/jarek/Desktop/Code/KeyControl/KeyWellButton.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1106, 1104}}";
+			sepNavSelRange = "{701, 0}";
+			sepNavVisRange = "{245, 1380}";
+		};
+	};
+	EFC133EA0E5F350E009E161A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EFC133A00E5F2FCE009E161A /* KeyWellButton.m */;
+		name = "KeyWellButton.m: 24";
+		rLen = 0;
+		rLoc = 668;
+		rType = 0;
+		vrLen = 1305;
+		vrLoc = 151;
+	};
+	EFC133FA0E5F35BC009E161A /* BierController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1106, 786}}";
+			sepNavSelRange = "{222, 34}";
+			sepNavVisRange = "{0, 263}";
+		};
+	};
+	EFC133FB0E5F35BC009E161A /* BierController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1313, 304}}";
+			sepNavSelRange = "{274, 0}";
+			sepNavVisRange = "{90, 192}";
+		};
+	};
+	EFC1341C0E5F3729009E161A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EFC133A00E5F2FCE009E161A /* KeyWellButton.m */;
+		name = "KeyWellButton.m: 16";
+		rLen = 0;
+		rLoc = 244;
+		rType = 0;
+		vrLen = 523;
+		vrLoc = 245;
+	};
+	EFC1341E0E5F3734009E161A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EFC133520E5F2C3A009E161A /* KeyWellButton.m */;
+		name = "KeyWellButton.m: 28";
+		rLen = 0;
+		rLoc = 701;
+		rType = 0;
+		vrLen = 1380;
+		vrLoc = 245;
+	};
+}

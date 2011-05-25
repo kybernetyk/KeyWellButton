@@ -1,0 +1,12 @@
+A simple "key well" button for OS X.
+
+What it does is: The user presses the button, the button becomes
+"activated", then the user presses a key which the button will read,
+display and become unpressed again.
+
+You can then read the key from the button.
+
+Meant for preference panels where users can set up hot-keys etc.
+
+License: BSD
+(c) Leon Szpilewski 2008
